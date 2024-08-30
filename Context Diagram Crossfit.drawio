@@ -1,0 +1,74 @@
+<mxfile host="app.diagrams.net" modified="2024-07-16T08:20:44.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="rGNresmtvfOsLyDrko7d" version="24.6.5" type="device">
+  <diagram name="Page-1" id="soBtWD7BxrU2iB-aemqf">
+    <mxGraphModel dx="1246" dy="523" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="amDGxQne4wge0aqguZU4-1" value="Wazito Fitness System" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#d79b00;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="290" y="172" width="137" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="amDGxQne4wge0aqguZU4-3" value="Client" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="217" y="52" width="319" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="amDGxQne4wge0aqguZU4-6" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;entryX=0.037;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="amDGxQne4wge0aqguZU4-1" target="amDGxQne4wge0aqguZU4-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="588" y="261" as="sourcePoint" />
+            <mxPoint x="231" y="88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amDGxQne4wge0aqguZU4-20" value="Trainer&#39;s Schedule" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="amDGxQne4wge0aqguZU4-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.0314" relative="1" as="geometry">
+            <mxPoint x="-20" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amDGxQne4wge0aqguZU4-8" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;entryX=0.453;entryY=-0.01;entryDx=0;entryDy=0;exitX=0.312;exitY=0.991;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="amDGxQne4wge0aqguZU4-3" target="amDGxQne4wge0aqguZU4-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379" y="123" as="sourcePoint" />
+            <mxPoint x="556" y="207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amDGxQne4wge0aqguZU4-19" value="Service purchase" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="amDGxQne4wge0aqguZU4-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.2067" y="1" relative="1" as="geometry">
+            <mxPoint x="20" y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amDGxQne4wge0aqguZU4-14" value="Administrator" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="307" y="371" width="103" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="amDGxQne4wge0aqguZU4-16" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="amDGxQne4wge0aqguZU4-1" target="amDGxQne4wge0aqguZU4-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="342" y="255" as="sourcePoint" />
+            <mxPoint x="576" y="373" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amDGxQne4wge0aqguZU4-21" value="Member Application Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="amDGxQne4wge0aqguZU4-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.1479" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amDGxQne4wge0aqguZU4-22" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;entryX=0.814;entryY=0.974;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.766;exitY=0.08;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="amDGxQne4wge0aqguZU4-1" target="amDGxQne4wge0aqguZU4-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="309" y="260" as="sourcePoint" />
+            <mxPoint x="359" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amDGxQne4wge0aqguZU4-23" value="Nutrition Service" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="amDGxQne4wge0aqguZU4-22" vertex="1" connectable="0">
+          <mxGeometry x="0.2264" y="3" relative="1" as="geometry">
+            <mxPoint x="-17" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amDGxQne4wge0aqguZU4-24" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;entryX=0.953;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.927;exitY=0.238;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="amDGxQne4wge0aqguZU4-1" target="amDGxQne4wge0aqguZU4-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="534" y="282" as="sourcePoint" />
+            <mxPoint x="458" y="213" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amDGxQne4wge0aqguZU4-25" value="Apparels" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="amDGxQne4wge0aqguZU4-24" vertex="1" connectable="0">
+          <mxGeometry x="-0.2162" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
